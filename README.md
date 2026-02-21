@@ -302,6 +302,8 @@ JSON-RPC: https://ethereum.org/developers/docs/apis/json-rpc/
 
 Explorer (Tracehawk): https://tracehawk.io/
 
+Polygon CDK: https://docs.polygon.technology/cdk/
+
 ---
 
 *Last updated: 2026-02-21*
