@@ -1,6 +1,6 @@
-# Pentagon Chain - Technical Spec (CEX Integration)
+# Pentagon Chain - Technical Specification
 
-*TLDR for CEX/infra partners requesting chain details*
+*For CEX, Node Operators, and Data Aggregators (CoinMarketCap, CoinGecko, CoinRank, etc.)*
 
 ---
 
