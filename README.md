@@ -59,6 +59,7 @@ This design creates a contained utility economy where value flows in easily but 
 | Explorer | https://explorer.pentagon.games |
 | RPC | https://rpc.pentagon.games |
 | Explorer API | https://explorer.pentagon.games/api |
+| Disperse | https://disperse.pentagon.games |
 | GitHub | https://github.com/blockchainsuperheroes |
 
 ---
