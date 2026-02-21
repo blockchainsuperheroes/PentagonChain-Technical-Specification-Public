@@ -19,17 +19,7 @@ Pentagon Chain operates as a self-contained economy with Ethereum as the capital
 
 This design creates a contained utility economy where value flows in easily but exits are managed, ensuring sustainable tokenomics.
 
-**Ecosystem:**
-- **Gunnies.io** — FPS game live on Epic Games Store
-- **gemry.ai** — AI NFT with regeneration
-- **EtherFantasy.com** — PFP mint and mobile game
-- **Pentaswap.io** — Native DEX (audits in progress)
-- **Agent Certification** — On-chain identity for AI agents
-
-**Key Stats:**
-- 1.2M+ verified users on Pentagon Chain
-- 3,000+ GitHub commits (2026)
-- Listed on CoinMarketCap and CoinGecko
+**Ecosystem & Repos:** https://github.com/blockchainsuperheroes
 
 ---
 
