@@ -30,7 +30,7 @@ This design creates a contained utility economy where value flows in easily but 
 | **Chain ID** | 3344 |
 | **Symbol** | PC |
 | **Chainlist** | https://chainlist.org/chain/3344 |
-| **CoinMarketCap** | https://coinmarketcap.com/currencies/pentagon-games/ |
+| **CoinMarketCap** | https://coinmarketcap.com/currencies/pentagon-chain/ |
 | **CoinGecko** | https://www.coingecko.com/en/coins/pentagon-chain |
 
 ---
