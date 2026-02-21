@@ -45,7 +45,7 @@
 1. **No memo/tag** - assign unique deposit address per user
 2. **Standard EVM accounts** - create via MetaMask or any EVM wallet
 3. **JSON-RPC compatible** - standard eth_* calls work
-4. **Explorer API** - Blockscout/Etherscan format
+4. **Explorer API** - Tracehawk format
 
 ---
 
@@ -287,7 +287,7 @@ Pentagon Chain uses a native bridge for asset transfers between L1 (Ethereum) an
 
 JSON-RPC: https://ethereum.github.io/execution-apis/api-documentation/
 
-Blockscout API: https://docs.blockscout.com/
+Explorer (Tracehawk): https://tracehawk.io/
 
 ---
 
