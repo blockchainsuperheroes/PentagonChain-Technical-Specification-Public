@@ -12,7 +12,7 @@
 | **Type** | zkEVM Validity Rollup | - |
 | **Decimals** | 18 (standard EVM) | - |
 | **Block time** | ~20 seconds | <1 second (with ZK prover scaling) |
-| **TPS** | ~100-500 | Up to 10,000+ |
+| **TPS** | ~100-500 | 2,000-4,000+ (scalable with parallel provers) |
 | **Memo/tag** | Not supported | - |
 
 **Performance Notes:** Pentagon Chain uses elastic scaling architecture. Block time and throughput are adjustable based on demand via ZK prover scaling. Current configuration optimized for cost efficiency. Can scale horizontally with additional prover capacity to meet high-throughput requirements.
@@ -285,7 +285,7 @@ Pentagon Chain uses a native bridge for asset transfers between L1 (Ethereum) an
 
 ## Reference Docs
 
-JSON-RPC: https://ethereum.github.io/execution-apis/api-documentation/
+JSON-RPC: https://ethereum.org/developers/docs/apis/json-rpc/
 
 Explorer (Tracehawk): https://tracehawk.io/
 
