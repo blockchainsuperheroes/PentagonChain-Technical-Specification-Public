@@ -28,7 +28,6 @@
 | Explorer | https://explorer.pentagon.games |
 | RPC | https://rpc.pentagon.games |
 | Explorer API | https://explorer.pentagon.games/api |
-| Disperse (Batch Transfers) | https://disperse.pentagon.games |
 | GitHub | https://github.com/blockchainsuperheroes |
 
 ---
