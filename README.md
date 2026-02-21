@@ -19,7 +19,7 @@ Pentagon Chain operates as a self-contained economy with Ethereum as the capital
 
 This design creates a contained utility economy where value flows in easily but exits are managed, ensuring sustainable tokenomics.
 
-**Ecosystem & Repos (226+):** https://github.com/blockchainsuperheroes
+**Ecosystem & Repos (226+):** Games, smart contracts, infrastructure, tooling — https://github.com/blockchainsuperheroes
 
 ---
 
